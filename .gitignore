@@ -1,0 +1,15 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+env/
+.venv/
+
+# Ignore Dialogflow service account key
+dialogflow_key.json
+
+# Ignore environment variables if you use them
+.env
+.env.*
+
+# Ignore VSCode settings if not needed
+.vscode/
