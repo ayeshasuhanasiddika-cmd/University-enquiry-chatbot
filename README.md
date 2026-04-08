@@ -1,4 +1,4 @@
-# University Enquiry Chatbot – Davanagere University,University
+# University Admission Enquiry Chatbot – Davanagere University,University
 This is a web-based enquiry chatbot system developed using Dialogflow and Flask, designed specifically for  Davanagere University,University . The chatbot assists prospective MCA students with frequently asked queries related to admissions, courses, fees, placements, facilities, and more.
 
 ---
