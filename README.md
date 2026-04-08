@@ -1,6 +1,5 @@
-# College Enquiry Chatbot – Shah & Anchor Kutchhi Engineering College
-
-This is a web-based enquiry chatbot system developed using Dialogflow and Flask, designed specifically for Shah & Anchor Kutchhi Engineering College. The chatbot assists prospective BTech students with frequently asked queries related to admissions, courses, fees, placements, facilities, and more.
+# University Enquiry Chatbot – Davanagere University,University
+This is a web-based enquiry chatbot system developed using Dialogflow and Flask, designed specifically for  Davanagere University,University . The chatbot assists prospective MCA students with frequently asked queries related to admissions, courses, fees, placements, facilities, and more.
 
 ---
 
@@ -86,8 +85,8 @@ college-enquiry-chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/college-enquiry-chatbot.git
-   cd college-enquiry-chatbot
+   git clone https://github.com/your-username/UNiversity-enquiry-chatbot.git
+   cd University-enquiry-chatbot
 
 2. Set up virtual environment
 
@@ -118,10 +117,8 @@ http://localhost:5000
 
 ## Author
 
-**Neha Palvi**  
-B.Tech Computer Science and Engineering  
-Shah & Anchor Kutchhi Engineering College  
-
+**Ayesha Siddika S**  
+  Davanagere University,University
 ---
 
 ## Disclaimer
